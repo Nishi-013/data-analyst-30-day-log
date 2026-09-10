@@ -1,0 +1,29 @@
+OrderID,OrderDate,Region,Category,Product,CustomerName,Units,UnitPrice,Revenue
+5001,2026-07-02,West,Furniture,Desk,Amir Khan,2,180,360
+5002,2026-07-03,East,Office Supplies,Stapler,Priya Nair,5,8,40
+5003,2026-07-03,West,Technology,Monitor,Jordan Lee,1,220,220
+5004,2026-07-05,Central,Furniture,Chair,Sofia Reyes,3,95,285
+5005,2026-07-06,East,Technology,Keyboard,Priya Nair,2,45,90
+5006,2026-07-07,West,Office Supplies,Paper,Amir Khan,10,4,40
+5007,2026-07-08,South,Furniture,Desk,Wei Zhang,1,180,180
+5008,2026-07-09,Central,Technology,Monitor,Sofia Reyes,2,220,440
+5009,2026-07-10,East,Office Supplies,Stapler,Priya Nair,3,8,24
+5010,2026-07-11,West,Technology,Laptop,Jordan Lee,1,950,950
+5011,2026-07-12,South,Furniture,Chair,Wei Zhang,4,95,380
+5012,2026-07-13,Central,Office Supplies,Paper,Sofia Reyes,8,4,32
+5013,2026-07-14,East,Technology,Monitor,Priya Nair,1,220,220
+5014,2026-07-15,West,Furniture,Chair,Amir Khan,2,95,190
+5015,2026-07-16,South,Technology,Keyboard,Wei Zhang,3,45,135
+5016,2026-07-17,Central,Furniture,Desk,Sofia Reyes,1,180,180
+5017,2026-07-18,East,Office Supplies,Paper,Priya Nair,6,4,24
+5018,2026-07-19,West,Technology,Laptop,Jordan Lee,2,950,1900
+5019,2026-07-20,South,Furniture,Desk,wei zhang,1,180,
+5020,2026-07-21,Central,Technology,Keyboard,Sofia Reyes,4,45,180
+5021,2026-07-22,East,Furniture,Chair,Priya Nair,2,95,190
+5022,2026-07-23,West,Office Supplies,Stapler,Amir Khan,7,8,56
+5023,2026-07-23,West,Office Supplies,Stapler,Amir Khan,7,8,56
+5024,2026-07-24,South,Technology,Monitor,Wei Zhang,1,220,220
+5025,2026-07-25,Central,Furniture,Chair,Sofia Reyes,25,95,2375
+5026,2026-07-26,East,Technology,Laptop,Priya Nair,1,950,950
+5027,2026-07-27,West,Furniture,Desk,Jordan Lee,2,180,360
+5028,2026-07-28,South,Office Supplies,Paper,Wei Zhang,5,4,20

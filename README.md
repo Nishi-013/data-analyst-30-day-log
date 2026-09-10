@@ -21,7 +21,7 @@ data-analyst-30-day-log/
 ## Progress
 
 - [x] Day 1 — Meet the role: what a Data Analyst actually does
-- [ ] Day 2 — Reading a dataset: rows, columns, dimensions & measures
+- [x] Day 2 — Reading a dataset: rows, columns, dimensions & measures
 - [ ] Day 3 — Data quality: missing values, duplicates, outliers, wrong data
 - [ ] Day 4 — Descriptive statistics & core business metrics
 - [ ] Day 5 — Finding trends, patterns, comparisons, and anomalies
